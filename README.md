@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Yango27/Yango27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yang, aka Yango :)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 About Me
+Just an engineering student who codes for fun (its not funny sometimes tho xd).
+
+## Github Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yango27)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yango27)](https://github.com/anuraghazra/github-readme-stats)
+
+## Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/Yango27)
