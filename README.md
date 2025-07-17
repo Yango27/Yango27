@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-Just an engineering student who codes for fun & learning:).
+Just an engineering student who codes for fun & learning :).
 
 ## Github Stats
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Yango27&theme=tokyonight)
