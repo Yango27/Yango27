@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Yang, aka Yango :)</h1>
 
-<p align="center">
-  Just an engineering student who codes for fun & learning :).
-</p>
-
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
